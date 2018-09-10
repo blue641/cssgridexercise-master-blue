@@ -23,12 +23,12 @@ nav {
 
 header {
   align-items: center;
-  background: #d4b3b3ab;
+  background: #2494FF;
   display: flex;
   min-height: 200px;
   padding-left: 15px;
   border-bottom: 10px solid #eeeeee;
-  margin-bottom: 15px;
+  /*margin-bottom: 15px;*/ 
 }
 main section {
   padding: 25px;
